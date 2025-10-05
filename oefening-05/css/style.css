@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #d3d3d3;
+    font-family: Arial, sans-serif;
+}
+.LorumIpsum{
+    background-color: #1abc9c;
+    color: white;
+    padding: 5px 5px;
+    margin: 10px;
+    margin-top: 45px;
+    font-weight: bold;
+}
+.LorumIpsum{
+    text-transform: uppercase;
+    color: white;
+    padding: 5px 5px;
+    margin: 10px;
+    margin-top: 45px;
+}
+.DolorSitAmet {
+    margin: 10px;
+    background-color: rgb(255, 0, 140);
+    text-transform: uppercase;
+    color: white;
+    padding: 5px 5px;
+    margin: 10px;
+    margin-top: 45px;
+}
+.Lorem{
+    margin: 10px;
+    background-color: beige;
+    padding: 5px 5px;
+    margin: 10px;
+    margin-top: 45px;
+}
+.Lorem h1{
+    font-size: 20px;
+    color: #333;
+    text-transform: capitalize;
+    padding: 5px 5px;
+    margin: 10px;
+    margin-top: 45px;
+}
