@@ -1,0 +1,25 @@
+html{
+    border: solid 1px black;
+}
+
+header, footer{
+    border: solid 1px black;   
+}
+nav{
+    border: solid 1px black;   
+    width: 50%;
+}
+section{
+    border: solid 1px black;   
+    width: 62%;
+}
+aside{
+    border: solid 1px  black;   
+    width: 38%;
+}
+article{
+    border: solid 1px red;   
+}
+h3{
+    border: solid 1px black;
+}
